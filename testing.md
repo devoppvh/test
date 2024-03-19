@@ -15,6 +15,3 @@ git push
 
 ```bash
 git add . && git commit -m "testing" && git push
-``
-# Update 
-we
